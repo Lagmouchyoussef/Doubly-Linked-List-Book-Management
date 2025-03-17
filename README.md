@@ -34,4 +34,4 @@ You are asked to manage a collection of students using a doubly linked list. Eac
 7. Write a procedure `Display` that allows displaying the information of students in a given list.
 8. Write a function that calculates the total number of absences for the Engineering Cycle.
 9. Write a function that allows reversing the elements of the list.
-10. Write the main program to test the different functions.
+10. Write the `main program` to test the different functions.
