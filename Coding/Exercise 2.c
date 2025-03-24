@@ -6,7 +6,7 @@
 typedef struct Student {
     char Name[100];
     char CNE[20];
-    char Cycle; // P, I, or A
+    char Cycle; 
     int Absences;
     float Grades[5];
 } Student;
